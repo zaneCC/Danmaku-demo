@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/brian/code/android/Danmaku/Sample/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/brian/code/android/Danmaku/Sample/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/brian/code/android/Danmaku/Sample/build/intermediates/res/merged/debug/layout/layout_view_cache.xml",
+        "source": "/Users/brian/code/android/Danmaku/Sample/src/main/res/layout/layout_view_cache.xml"
+    },
+    {
+        "merged": "/Users/brian/code/android/Danmaku/Sample/build/intermediates/res/merged/debug/layout/media_controller.xml",
+        "source": "/Users/brian/code/android/Danmaku/Sample/src/main/res/layout/media_controller.xml"
+    }
+]

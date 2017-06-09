@@ -1,0 +1,63 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId "com.mgtv.danmaku"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+//repositories{
+//    flatDir{
+//        dirs 'libs'
+//    }
+//}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.0'
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    testCompile 'junit:junit:4.12'
+    /** 弹幕库 */
+    //    compile 'com.github.ctiao:DanmakuFlameMaster:0.8.3'
+    //    compile 'com.github.ctiao:ndkbitmap-armv7a:0.8.3'
+    //
+    //    //# Other ABIs: optional
+    //    compile 'com.github.ctiao:ndkbitmap-armv5:0.8.3'
+    //    compile 'com.github.ctiao:ndkbitmap-x86:0.8.3'
+
+
+//    compile(name:'mylibrary-release',ext:'aar')
+
+    compile project(':DanmakuFlameMaster')
+//    compile project(':mylibrary')
+//    compile files('libs/classes.jar')
+
+    /** RxJava */
+    compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+    compile 'io.reactivex.rxjava2:rxjava:2.0.1'
+    /** net */
+    compile 'com.google.code.gson:gson:2.7'
+
+    /** 图片加载 */
+    compile 'com.github.bumptech.glide:glide:3.7.0'
+
+
+//    compile 'com.github.bumptech.glide:glide:3.7.0'
+//    compile 'com.android.support:support-v4:25.3.1'
+//    annotationProcessor 'com.github.bumptech.glide:compiler:4.0.0-RC0'
+}

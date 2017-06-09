@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="default"><source path="/Users/brian/code/android/Danmaku/DanmakuFlameMaster/build/intermediates/bundles/default/assets"/></dataSet><dataSet config="main"><source path="/Users/brian/code/android/Danmaku/Sample/src/main/assets"/><source path="/Users/brian/code/android/Danmaku/Sample/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/brian/code/android/Danmaku/Sample/src/debug/assets"/></dataSet></merger>

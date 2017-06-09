@@ -1,0 +1,104 @@
+{
+"status": 0,
+"msg": "success",
+"seq": "b4dr12rlvacgokm25i30",
+"data": {
+"next": 120,
+"interval": 60,
+"items": [
+{
+"id": 3501638,
+"type": 0,
+"uid": 3446654093,
+"utype": 1,
+"uname": "mmmmg",
+"avatar": "http://p1.hunantv.com/2/ava2_6SoyOBRDsYNkD5yOiHZAK85QbCiiuvyR.jpg",
+"content": "LUWw2ZYmQLSaH tfb0ybPXl8D0qwAgRPS8iSj2A0",
+"time": 83
+},
+{
+"id": 3890757,
+"type": 0,
+"uid": 3079312544,
+"content": "8FwpTguxNc2diA 9iQF8nCbGoFryLiV3sI8sT1YH",
+"time": 85
+},
+{
+"id": 1305400,
+"type": 0,
+"uid": 958912100,
+"content": "4ZuwUX6qxtHexiwvo6v2kj6WQKzrDQELZIBfHz2M",
+"time": 87
+},
+{
+"id": 5857560,
+"type": 0,
+"uid": 163927334,
+"content": "ahPEb5eMiW7R7tQdKHR3PyLAuZz25b6xYO8U2qn5",
+"time": 90
+},
+{
+"id": 1491116,
+"type": 0,
+"uid": 2384114951,
+"content": "Po7YZNFAAFb NkOHVaOkjQf7uOQS5Nz5PHlXConq",
+"time": 91
+},
+{
+"id": 1252389,
+"type": 0,
+"uid": 2444809117,
+"utype": 1,
+"uname": "mmmmg",
+"avatar": "http://p1.hunantv.com/2/ava2_6SoyOBRDsYNkD5yOiHZAK85QbCiiuvyR.jpg",
+"content": "R2iALO3KMRocI2vKZXm32azepc0F1k8ZakRWaFv ",
+"time": 98
+},
+{
+"id": 6021566,
+"type": 0,
+"uid": 130687898,
+"content": "5XOs3ZAaZuHFaHIkoWfu3yPMituN2NR2NbGabkKm",
+"time": 98
+},
+{
+"id": 7141146,
+"type": 0,
+"uid": 1409187529,
+"content": "eJlglqcl8QjmUcvVRfUaQU TrAYHpVFwMU3Q6DLA",
+"time": 102
+},
+{
+"id": 3145282,
+"type": 0,
+"uid": 191376508,
+"content": " rROXcIEhOG1ZHBM4LaArPNXyopmmbYUyKjbN6 ",
+"time": 111
+},
+{
+"id": 1285267,
+"type": 0,
+"uid": 3886461409,
+"content": "Id8lGIzmZivPzzDsdN3KeVgNv7uzDHlAdxzcGbSR",
+"time": 114
+},
+{
+"id": 4617516,
+"type": 0,
+"uid": 828703126,
+"utype": 1,
+"uname": "mmmmg",
+"avatar": "http://p1.hunantv.com/2/ava2_6SoyOBRDsYNkD5yOiHZAK85QbCiiuvyR.jpg",
+"content": "bQIJbw4mwISV9bjpGXDtspEhaGhQG64zAPejjBfh",
+"time": 114
+},
+{
+"id": 6801265,
+"type": 0,
+"uid": 2312142755,
+"content": "QKcAzQEhmObIUCOGHbUiEBL9q1e2BU0OTaH2ZBFP",
+"time": 118
+}
+]
+}
+}
